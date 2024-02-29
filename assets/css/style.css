@@ -1,12 +1,16 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.titulo{
+font-size: 50px;
+color: #000000;
+font-weight: 500;
 
-body{
-    font-family:  'Roboto', sans-serif;
+
 }
 
-
-.title{
-font-size: 60px;
-color: #000000;
+.subtitulo{
+font-size: 25px;
+color: #030101;
 font-weight: 400;
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }

@@ -16,9 +16,9 @@ var JsPromedioFinal = document.getElementById("JsPromedioFinal");
 
 
 // NOTAS HTML
-htmlNota1.innerHTML = parseInt(prompt("Ingrese su 1era nota de Html"));
-htmlNota2.innerHTML = parseInt(prompt("Ingrese su 2era nota de Html"));
-htmlNota3.innerHTML = parseInt(prompt("Ingrese su 3era nota de Html"));
+htmlNota1.innerHTML = parseInt(prompt("Ingrese la nota del 1er Ramo de Html"));
+htmlNota2.innerHTML = parseInt(prompt("Ingrese la nota del 2do Ramo de Html"));
+htmlNota3.innerHTML = parseInt(prompt("Ingrese la nota del 3er Ramo de Html"));
 
 var nota1html = parseInt(htmlNota1.innerHTML);
 var nota2html = parseInt(htmlNota2.innerHTML);
@@ -31,9 +31,9 @@ htmlPromedioFinal.innerHTML =  promedioHtml;
 
 
 // NOTAS CSS
-CssNota1.innerHTML = parseInt(prompt("Ingrese su 1era nota de Css"));
-CssNota2.innerHTML = parseInt(prompt("Ingrese su 2era nota de Css"));
-CssNota3.innerHTML = parseInt(prompt("Ingrese su 3era nota deCss"));
+CssNota1.innerHTML = parseInt(prompt("Ingrese la nota del 1er Ramo de Css"));
+CssNota2.innerHTML = parseInt(prompt("Ingrese la nota del 2do Ramo de Css"));
+CssNota3.innerHTML = parseInt(prompt("Ingrese la nota del 3er Ramo de Css"));
 
 var nota1css = parseInt(CssNota1.innerHTML);
 var nota2css = parseInt(CssNota2.innerHTML);
@@ -46,9 +46,9 @@ CssPromedioFinal.innerHTML =  promediocss;
 
 
 // / NOTAS jAVASCRIPT
-JsNota1.innerHTML = parseInt(prompt("Ingrese su 1era nota de Js"));
-JsNota2.innerHTML = parseInt(prompt("Ingrese su 2era nota de Js"));
-JsNota3.innerHTML = parseInt(prompt("Ingrese su 3era nota de Js"));
+JsNota1.innerHTML = parseInt(prompt("Ingrese la nota del 1er Ramo de Js"));
+JsNota2.innerHTML = parseInt(prompt("Ingrese la nota del 2do Ramo de Js"));
+JsNota3.innerHTML = parseInt(prompt("Ingrese la nota del 3er Ramo de Js"));
 
 var nota1js = parseInt(JsNota1.innerHTML);
 var nota2js = parseInt(JsNota2.innerHTML);
